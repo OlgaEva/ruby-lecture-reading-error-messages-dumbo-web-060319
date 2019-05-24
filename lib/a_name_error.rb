@@ -1,3 +1,5 @@
 "hello world"
 
-y = hello_world
+def hello
+  puts 'Hello World'
+end
